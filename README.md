@@ -29,4 +29,6 @@
 ### Projects
 - [Industrial Network Template](https://github.com/lucasdbrown/industrial_network_template)
 - [OT Security Project](https://github.com/lucasdbrown/ot_security_project)
+- [Network Services Final Lab (Ansible, DNS, DHCP, & VoIP)](https://github.com/lucasdbrown/net_services_final_lab)
+- [OT Security Interest Group Protocols Meeting | Protocol Demos](https://github.com/lukasmay/protocol_demos)
 
