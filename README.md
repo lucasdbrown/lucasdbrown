@@ -26,7 +26,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   
 </div>
-<br>
  
 ## 📦 Projects
 - [Industrial Network Template](https://github.com/lucasdbrown/industrial_network_template)
