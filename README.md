@@ -1,4 +1,4 @@
-## Lucas Brown 
+# Lucas Brown 
 [//]: # (Badge Info Links)
 <div id="badges">
   <a href="https://www.linkedin.com/in/lucas-d-brown/">
@@ -13,7 +13,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## 🛠️ Languages and Tools I've Used:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -23,10 +23,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   
 </div>
-
-### Projects
+<br>
+ 
+## 📦 Projects
 - [Industrial Network Template](https://github.com/lucasdbrown/industrial_network_template)
 - [OT Security Project](https://github.com/lucasdbrown/ot_security_project)
 - [Network Services Final Lab (Ansible, DNS, DHCP, & VoIP)](https://github.com/lucasdbrown/net_services_final_lab)
