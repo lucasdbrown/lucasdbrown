@@ -30,8 +30,14 @@
 ## 📦 Projects
 - [Industrial Network Template](https://github.com/lucasdbrown/industrial_network_template)
 - [OT Security Project](https://github.com/lucasdbrown/ot_security_project)
+- [Docker Ansible](https://github.com/lucasdbrown/docker-ansible)
+- [Cyber Competition Infrastructure (developed the Terraform and a lot of the Ansible)](https://github.com/CDT-Charlie/competition-infra/)
+- [Custom MITRE Caldera OT Adversaries](https://github.com/OT-Security-Interest-Group/Caldera-OT-Operations)
 - [Network Services Final Lab (Ansible, DNS, DHCP, & VoIP)](https://github.com/lucasdbrown/net_services_final_lab)
 - [Personal Cyber Blog](https://lucasdbrown.github.io/cyber_blog/)
 - [FrostyGoop Malware Analysis](https://github.com/lucasdbrown/frostygoop_analysis)
 - [OT Security Interest Group Protocols Meeting | Protocol Demos](https://github.com/lukasmay/protocol_demos)
+- [OPC UA Server Demonstration for OT Security Interest Group](https://github.com/lucasdbrown/opc-ua-server-demo)
 
+## 📊GitHub Stats
+![Lucas GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lucasdbrown&count_private=true&show_icons=true)
